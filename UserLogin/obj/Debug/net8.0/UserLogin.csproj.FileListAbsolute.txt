@@ -1,0 +1,14 @@
+D:\DOTNET Apps\PS_49_Melih\UserLogin\bin\Debug\net8.0\UserLogin.exe
+D:\DOTNET Apps\PS_49_Melih\UserLogin\bin\Debug\net8.0\UserLogin.deps.json
+D:\DOTNET Apps\PS_49_Melih\UserLogin\bin\Debug\net8.0\UserLogin.runtimeconfig.json
+D:\DOTNET Apps\PS_49_Melih\UserLogin\bin\Debug\net8.0\UserLogin.dll
+D:\DOTNET Apps\PS_49_Melih\UserLogin\bin\Debug\net8.0\UserLogin.pdb
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.AssemblyInfoInputs.cache
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.AssemblyInfo.cs
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.csproj.CoreCompileInputs.cache
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.dll
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\refint\UserLogin.dll
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.pdb
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.genruntimeconfig.cache
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\ref\UserLogin.dll
