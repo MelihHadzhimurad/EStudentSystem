@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\DOTNET Apps\\PS_49_Melih\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|d:\\dotnet apps\\ps_49_melih\\userlogin\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|d:\\dotnet apps\\ps_49_melih\\userlogin\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|d:\\dotnet apps\\ps_49_melih\\userlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|d:\\dotnet apps\\ps_49_melih\\userlogin\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|d:\\dotnet apps\\ps_49_melih\\userlogin\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99E102F-4D86-4296-8FCF-03A71627C67E}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\UserRoles.cs",
+              "RelativeDocumentMoniker": "UserLogin\\UserRoles.cs",
+              "ToolTip": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\UserRoles.cs",
+              "RelativeToolTip": "UserLogin\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:17:08.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\User.cs",
+              "RelativeDocumentMoniker": "UserLogin\\User.cs",
+              "ToolTip": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\User.cs",
+              "RelativeToolTip": "UserLogin\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:11:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\Program.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Program.cs",
+              "ToolTip": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\Program.cs",
+              "RelativeToolTip": "UserLogin\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:57:56.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\UserData.cs",
+              "RelativeDocumentMoniker": "UserLogin\\UserData.cs",
+              "ToolTip": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\UserData.cs",
+              "RelativeToolTip": "UserLogin\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:52:20.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginValidation.cs",
+              "DocumentMoniker": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\LoginValidation.cs",
+              "RelativeDocumentMoniker": "UserLogin\\LoginValidation.cs",
+              "ToolTip": "D:\\DOTNET Apps\\PS_49_Melih\\UserLogin\\LoginValidation.cs",
+              "RelativeToolTip": "UserLogin\\LoginValidation.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:44:43.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

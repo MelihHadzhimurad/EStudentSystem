@@ -12,3 +12,4 @@ D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\refint\UserLogin.dll
 D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.pdb
 D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.genruntimeconfig.cache
 D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\ref\UserLogin.dll
+D:\DOTNET Apps\PS_49_Melih\UserLogin\obj\Debug\net8.0\UserLogin.sourcelink.json
