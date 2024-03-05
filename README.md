@@ -1,1 +1,1 @@
-This Repo is for my .Net course project in TU Sofia.
+This Repo is for my .Net course project at TU Sofia.
